@@ -1,5 +1,5 @@
 require "sinatra/base"
 
 class Sinatra::Base
-  helpers Chartkick::Helper
+  helpers Nvd3::Helper
 end

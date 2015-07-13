@@ -1,7 +1,7 @@
 require "test_helper"
 
-class TestChartkick < Minitest::Test
-  include Chartkick::Helper
+class TestNvd3 < Minitest::Test
+  include Nvd3::Helper
 
   # TODO actual tests
 

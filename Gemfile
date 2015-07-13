@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in chartkick.gemspec
+# Specify your gem's dependencies in nvd3.gemspec
 gemspec

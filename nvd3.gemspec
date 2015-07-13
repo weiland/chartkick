@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "chartkick/version"
+require "nvd3/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "chartkick"
-  spec.version       = Chartkick::VERSION
+  spec.name          = "nvd3"
+  spec.version       = Nvd3::VERSION
   spec.authors       = ["Andrew Kane"]
   spec.email         = ["acekane1@gmail.com"]
   spec.description   = "Create beautiful Javascript charts with one line of Ruby"
